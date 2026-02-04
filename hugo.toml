@@ -1,0 +1,5 @@
+baseURL = 'http://vedavathij/My_class_reflection_blog/'
+languageCode = 'en-us'
+title = 'My First Blog'
+theme = 'ananke' 
+publishDir = "docs"
