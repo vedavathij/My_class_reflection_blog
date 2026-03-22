@@ -1,5 +1,5 @@
-baseURL = 'http://vedavathij/My_class_reflection_blog/'
-languageCode = 'en-us'
-title = 'My First Blog'
-theme = 'ananke' 
+baseURL = "https://vedavathij.github.io/My_class_reflection_blog/"
+languageCode = "en-us"
+title = "My First Blog"
+theme = "ananke"
 publishDir = "docs"
